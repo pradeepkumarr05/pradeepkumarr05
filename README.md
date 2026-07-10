@@ -144,14 +144,14 @@ Python-based ride booking application featuring
 
 ## Current Interests
 
-Artificial Intelligence
-Machine Learning
-Software Engineering
-Backend Systems
-Distributed Systems
-Computer Vision
-Product Development
-Cloud Technologies
+Artificial Intelligence | 
+Machine Learning | 
+Software Engineering | 
+Backend Systems | 
+Distributed Systems | 
+Computer Vision | 
+Product Development | 
+Cloud Technologies 
 
 
 ---
