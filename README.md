@@ -84,50 +84,6 @@ Neo4j • Cassandra
 
 An AI-powered classroom ecosystem built during Smart India Hackathon.
 
-Features include
-
-- Facial Recognition Attendance
-- Student Behaviour Analysis
-- AI Chatbot
-- Classroom Analytics
-- Speech-to-Text
-- IoT Automation
-- Gamified Learning
-
----
-
-## Emotion Recognition System
-
-Real-time facial emotion recognition using
-
-- OpenCV
-- DeepFace
-- Python
-
-Capable of detecting human emotions directly from webcam streams.
-
----
-
-## Library Management System
-
-A Java application that simplifies library operations with
-
-- Azure MySQL
-- Book Tracking
-- Inventory Management
-- Secure Database Integration
-
----
-
-## Cab Hailing Platform
-
-Python-based ride booking application featuring
-
-- Live Location Tracking
-- Fare Prediction
-- Scheduled Booking
-- Route Management
-
 ---
 
 # Highlights
