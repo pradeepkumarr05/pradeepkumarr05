@@ -78,14 +78,6 @@ Neo4j • Cassandra
 
 ---
 
-# Featured Projects
-
-## Edvance — Smart Classroom Management System
-
-An AI-powered classroom ecosystem built during Smart India Hackathon.
-
----
-
 # Highlights
 
 🏆 Smart India Hackathon 2024 Grand Finalist
