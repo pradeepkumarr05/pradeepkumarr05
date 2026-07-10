@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # Pradeep Kumar R
@@ -32,7 +32,6 @@ Whether it's building AI-powered classroom solutions, computer vision applicatio
 - Improving my Data Structures & Algorithms skills
 - Exploring scalable backend systems
 - Building AI-powered applications
-- Contributing to Open Source
 - Learning System Design
 
 ---
@@ -145,7 +144,6 @@ Python-based ride booking application featuring
 
 ## Current Interests
 
-```
 Artificial Intelligence
 Machine Learning
 Software Engineering
@@ -154,9 +152,8 @@ Distributed Systems
 Computer Vision
 Product Development
 Cloud Technologies
-```
 
----
+
 
 ## GitHub Analytics
 
@@ -203,4 +200,3 @@ If you like my work, feel free to explore my repositories and connect.
 ⭐ Happy Coding ⭐
 
 </div>
-````
