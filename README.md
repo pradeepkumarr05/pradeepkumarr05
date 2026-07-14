@@ -99,7 +99,7 @@ Backend Systems |
 Distributed Systems | 
 Computer Vision | 
 Product Development | 
-Cloud Technologies 
+Full Stack Development 
 
 
 ---
