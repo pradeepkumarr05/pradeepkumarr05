@@ -114,7 +114,7 @@ Full Stack Development
 
 <div align="center">
 
-### Thanks for visiting!
+### Thanks for visiting!!
 
 If you like my work, feel free to explore my repositories and connect.
 
