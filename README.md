@@ -3,7 +3,7 @@
 
 # Pradeep Kumar R
 
-### Building intelligent software that solves real-world problems.
+### Building intelligent software that solves real-world problems
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+%7C+Software+Engineering;Full+Stack+Developer;Machine+Learning+Enthusiast;Smart+India+Hackathon+Finalist;Always+Building+Always+Learning"/>
 
