@@ -32,7 +32,6 @@ Whether it's building AI-powered classroom solutions, computer vision applicatio
 - Exploring scalable backend systems
 - Building AI-powered applications
 - Learning System Design
-
 ---
 
 ## Tech Stack
