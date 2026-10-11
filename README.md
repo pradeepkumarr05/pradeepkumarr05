@@ -1,5 +1,4 @@
 <div align="center">
-
 # Pradeep Kumar R
 
 ### Building intelligent software that solves real-world problems.
